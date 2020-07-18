@@ -1,5 +1,5 @@
 # MoreWare---PilloleDiPython
-Un repository per i programmi presentati nelle videolezioni sul relativo canale YouTube
+Un repository per i programmi presentati nelle videolezioni sul canale YouTube relativo a Pillole di Python
 
 Il canale PilloleDiPython è raggiungibile all'indirizzo https://www.youtube.com/channel/UCFFSDYPL0-Fx6OvJD28GP8A
 
